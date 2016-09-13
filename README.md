@@ -1,4 +1,4 @@
-## JavaScript challenges with a focus jQuery
+## JavaScript challenges with a focus on jQuery
 
 ###Goals
 
